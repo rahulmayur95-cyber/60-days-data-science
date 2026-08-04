@@ -19,3 +19,5 @@ for i in range(number_of_subjects):
     print("\n--- Final Results ---")
     print("your average marks:", round(final_average, 2))
     print("your grade:", final_grade)
+    
+    
